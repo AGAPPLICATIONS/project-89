@@ -1,5 +1,6 @@
 div{
  border-width: 3px;
+ border-radius: 10px;
  border-color: red;
  background-color:yellow;
  padding: 10px;
@@ -37,4 +38,23 @@ button{
 
     margin-top: 25px;
     width: 400px;
+}
+#output{
+background: linear-gradient(red,green,blue,yellow);
+border-top: 10px solid #7fdbda;
+padding: 10px;
+float: none;
+text-align: left;
+
+
+
+
+}
+#background{
+    background: red;
+    width: 800px;
+}
+#number1,#number2{
+width: 650px;
+
 }
