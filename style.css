@@ -40,21 +40,28 @@ button{
     width: 400px;
 }
 #output{
-background: linear-gradient(red,green,blue,yellow);
+background: blue;
 border-top: 10px solid #7fdbda;
 padding: 10px;
 float: none;
 text-align: left;
 
-
+width: 90%;
 
 
 }
+
 #background{
     background: red;
-    width: 800px;
+    
+    width:98%;
 }
 #number1,#number2{
 width: 650px;
 
 }
+#p1name{ float: left;
+font:red;}
+#p2name{ 
+    float: left;
+    font:red;}
